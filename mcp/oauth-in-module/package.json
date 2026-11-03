@@ -5,7 +5,7 @@
   "type": "module",
   "description": "MCP server deployed with the Serverless Framework",
   "dependencies": {
-    "@modelcontextprotocol/server": "^2.0.0",
+    "@modelcontextprotocol/server": "^2.3.0",
     "jose": "^6.1.0",
     "zod": "^4.2.0"
   }
